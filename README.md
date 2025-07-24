@@ -61,7 +61,7 @@ Then open http://localhost:5173 in your browser.
 📱 Mobile-first improvements
 
 🙌 Contributing
-Contributions are welcome!
+Contributions are welcome
 
 👩‍💻 Author
 Vanshika Rajput
