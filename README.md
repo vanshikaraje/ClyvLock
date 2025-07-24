@@ -52,16 +52,12 @@ Then open http://localhost:5173 in your browser.
 
 🌐 MongoDB integration for persistent storage
 
-🔒 Password encryption with AES
-
-🔑 JWT-based authentication system
-
-☁️ Cloud sync and user accounts
+🔒 Password encryption
 
 📱 Mobile-first improvements
 
 🙌 Contributing
-Contributions are welcome
+Contributions are welcome!
 
 👩‍💻 Author
 Vanshika Rajput
